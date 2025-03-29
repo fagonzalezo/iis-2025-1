@@ -14,7 +14,7 @@ image:
 			<th>Actividades</th>
 		</tr>
 		<tr>
-			<td>Oct 28</td>
+			<td>Mar 31</td>
 			<td>1. Introducción</td>
 			<td>
 				<b>Lecturas y recursos:</b><br>
@@ -26,7 +26,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Nov 4</td>
+			<td>Abr 7</td>
 			<td> 
 			1.3 Agentes inteligentes<br>
 			2.1 Agentes y Búsquedas<br>
@@ -54,7 +54,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Nov 11</td>
+			<td>Abr 21</td>
 			<td>
 			2.2 Búsqueda no informada<br>
 			2.3 Búsqueda informada
@@ -86,7 +86,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Nov 18</td>
+			<td>Abr 28</td>
 			<td>
 			4.1 Python para machine learning
 			</td>
@@ -106,7 +106,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Nov 25</td>
+			<td>May 5</td>
 			<td>
 			3.1 Qué es el machine learning<br>
 			3.2 Aprendizaje supervisado<br>
@@ -150,7 +150,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Dic 2</td>
+			<td>May 12</td>
 			<td>
 			4.2 Construcción de modelos a partir de datos
 			</td>
@@ -165,7 +165,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Dic 9</td>
+			<td>May 19</td>
 			<td>
 			3.3.2 Modelos probabilísticos
 			</td>
@@ -193,7 +193,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Dic 16</td>
+			<td>May 26</td>
 			<td>
 			4.3 Exploración y preparación de datos
 			</td>
@@ -207,7 +207,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Ene 13</td>
+			<td>Jun 2</td>
 			<td>
 			3.3.3 Arboles de decisión
 			</td>
@@ -235,7 +235,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Ene 20</td>
+			<td>Jun 9</td>
 			<td>
 			4.4 Evaluación de modelos<br>
 			4.5 Selección de modelos
@@ -250,7 +250,7 @@ image:
 			</td>		
 		</tr>
 		<tr>
-			<td>Ene 27</td>
+			<td>Jun 16</td>
 			<td>
 			3.3.4 Redes neuronales
 			</td>
@@ -276,7 +276,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Feb 3</td>
+			<td>Jun 23</td>
 			<td>
 			4.6 Redes neuronales y Tensorflow
 			</td>
@@ -293,7 +293,7 @@ image:
 			</td>		
 		</tr>
 		<tr>
-			<td>Feb 10</td>
+			<td>Jun 30</td>
 			<td>
 			3.4 Aprendizaje no supervisado<br>
 			3.4.1 Clustering
@@ -319,7 +319,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Feb 17</td>
+			<td>Jul 7</td>
 			<td>
 			4.8 Desarrollo de modelos no supervisados
 			</td>
@@ -334,7 +334,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Feb 24</td>
+			<td>Jul 14</td>
 			<td>
 			3.4 Aprendizaje no supervisado<br>
 			3.4.2 Reducción de la dimensionalidad<br>
