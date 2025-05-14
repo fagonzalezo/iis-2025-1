@@ -118,7 +118,7 @@ image:
 				<u>Introducción a machine learning</u> (<a href= "https://fagonzalezo.github.io/iis-2019-1/intro-ml.pdf">slides</a>): <br>
 				- 1. Kepler y Brahe (<a href= "https://drive.google.com/file/d/1Lrjgj6YlLYKtCjpawq5aDMCS3XO_NqBD/view?usp=drive_link">video</a> )<br>
 				- 2. Datos y ML (<a href= "https://drive.google.com/file/d/1zBe12VTZ-TnXbreMN0Lk-iQCYoR2mXWY/view?usp=drive_link">video</a> )<br>
-				- 3. 4 paradigmas de la ciencia (<a href= "https://drive.google.com/file/d/1771Sa40Wjxnq8VdxrA7PHaULhKOvYs18/view?usp=drive_link">video</a> )<br>
+				- 3. Paradigmas de la ciencia (<a href= "https://drive.google.com/file/d/1771Sa40Wjxnq8VdxrA7PHaULhKOvYs18/view?usp=drive_link">video</a> )<br>
 				- 4. Definición e historia (<a href= "https://drive.google.com/file/d/1OhoqJuxaG6P2BwG3oAf9wnP9Ru0GPTnl/view?usp=drive_link">video</a> )<br>
 				- 5. Aprendizaje supervisado (<a href= "https://drive.google.com/file/d/1cYiiSmWfGzb3BGRViS7OAItrfUkUXQUN/view?usp=drive_link">video</a> )<br>
 				- 6. Aprendizaje no supervisado (<a href= "https://drive.google.com/file/d/1sP7bgXYfq3RCB0DntgVmtwqH194mcXhH/view?usp=drive_link">video</a> )<br>
