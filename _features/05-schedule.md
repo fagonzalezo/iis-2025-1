@@ -205,6 +205,7 @@ image:
 			<td>
 				LAB 04.01 - Cleaning data (<a href= "https://fagonzalezo.github.io/ai4eng-unal/content/LAB%2004.01%20-%20CLEANING%20DATA.html">notebook</a>, <a href= "https://youtu.be/mb0fH3AXhZ4">video</a>)<br>
 				LAB 04.02 - Building datasets (<a href= "https://fagonzalezo.github.io/ai4eng-unal/content/LAB%2004.02%20-%20BUILDING%20DATASETS.html">notebook</a>, <a href= "https://youtu.be/mb0fH3AXhZ4">video</a>)<br>
+				<a href= "https://colab.research.google.com/drive/17iYYTX3acbJ2iHS9GfBx47G-txjW-XoI?usp=sharing">Práctica 5.5</a>	<br>
 			</td>
 		</tr>
 		<tr>
