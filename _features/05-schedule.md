@@ -317,7 +317,7 @@ image:
 			</td>
 			<td>
 				<a href= "practica9.pdf">Práctica 9</a><br>
-				<a href= "proyecto_final.pdf">Proyecto Final</a><br>
+				<a href= "proyecto.pdf">Proyecto Final</a><br>
 			</td>
 		</tr>
 		<tr>
